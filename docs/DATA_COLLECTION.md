@@ -1,3 +1,5 @@
+th
+
 # Hướng Dẫn Thu Thập (Crawl) và Chuẩn Hóa Dữ Liệu — K4-L3B
 
 Mỗi nhóm thu thập dữ liệu về chủ đề bắt buộc của lớp **L3B: chính sách đổi trả/bảo hành thương mại điện tử**. Mục tiêu là có một bộ tài liệu nhỏ, đáng tin cậy để so sánh retrieval — không phải crawl càng nhiều càng tốt. Xem ràng buộc riêng của L3B tại [`K4_VARIANT.md`](../K4_VARIANT.md).
